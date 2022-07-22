@@ -1,6 +1,6 @@
 ### Olá!! Me chamo Felipe Martins
 
-- 🔭 Sou estudante de Engenharia de Computação pelo UniCEUB, estou no 3º semestre e também em busca de um estágio.
+- 🔭 Sou estudante de Ciência de Dados no UniCEUB, estou no 1º semestre e sou estagiário técnico na América Tecnologia.
 - 🌱 Estudando Java, JavaScript, C# e outros...
 - 📫 Meu email é: felipe_mmmachado@hotmail.com
 - ⚡ Um fato sobre mim: já platinei Red Dead Redemption II.
