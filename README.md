@@ -12,12 +12,14 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="fel-Airflow" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg">
-  <img align="center" alt="fel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="fel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="fel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="fel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="fel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="fel-Spark" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg">
+  <img align="center" alt="fel-Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="fel-FastAPI" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg">
+  <img align="center" alt="fel-Pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="fel-Terraform" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg">
   <img align="center" alt="fel-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="fel-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="fel-AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
   
   ##
